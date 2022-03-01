@@ -16,7 +16,7 @@ Just click the button below and follow the instructions.
 
 [![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/share/enQtMzIwMDk4OTYwNzY2NC1jNTRjNTY3MWIxNzExMjZiMWFiN2UxN2RhM2FiOWFlMjU4ZDJhODAyYWRlZTI4OGVhNmU1ZGFlZTFhMDIxODFm/)
 
-Issue tracker for [Zeitgeist.WaveStudio.tv].
+Issue tracker for <a href="https://Zeitgeist(https://Zeitgeist.WaveStudio.tv">Zeitgeist</a>.
 
 
 ## Features
